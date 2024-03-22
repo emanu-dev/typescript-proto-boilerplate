@@ -1,0 +1,14 @@
+{
+  "name": "typescript-proto-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.72.0",
+    "typescript": "^5.0.0"
+  }
+}
